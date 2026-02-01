@@ -125,7 +125,7 @@ def main():
             api_base="http://192.168.11.20:40512/v1",
             api_key="",
             model="qwen3-vl:latest",
-            prompt="Describe the scene in details.",
+            prompt="請用繁體中文描述照片中人物皮膚的狀況",
             max_tokens=300,
         )
 
